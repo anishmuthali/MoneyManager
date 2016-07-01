@@ -12,6 +12,11 @@
         android:layout_height="50dp"
         android:orientation="horizontal"
         android:background="#E0E0E0">
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/back"
+            android:id="@+id/back"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="50dp"
