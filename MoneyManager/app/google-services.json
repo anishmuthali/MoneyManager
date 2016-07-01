@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "887142387938",
+    "firebase_url": "https://money-manager-970ab.firebaseio.com",
+    "project_id": "money-manager-970ab",
+    "storage_bucket": "money-manager-970ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887142387938:android:a7062c7b399522a3",
+        "android_client_info": {
+          "package_name": "com.anish.moneymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887142387938-pbbkq3ngajnal5vbhvj6ooeotr2r4gos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrmW6q5H19lQ77WXuQGF0-5T7zt36X_CA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
